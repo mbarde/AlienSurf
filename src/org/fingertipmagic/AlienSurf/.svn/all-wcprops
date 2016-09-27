@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf
+END
+MyGLRenderer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/MyGLRenderer.java
+END
+FPoint.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/FPoint.java
+END
+Square.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/Square.java
+END
+TextureHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/TextureHelper.java
+END
+SquareAdapter.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/SquareAdapter.java
+END
+TBoundingBox.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/TBoundingBox.java
+END
+Cons.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/Cons.java
+END
+TBackground.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/TBackground.java
+END
+Triangle.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/Triangle.java
+END
+AndroidAlienSurfActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/AndroidAlienSurfActivity.java
+END
+TMainScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/TMainScreen.java
+END
+TGestureListener.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/TGestureListener.java
+END
+THelpScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/THelpScreen.java
+END
+TSquareManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/TSquareManager.java
+END
+TTextureManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/TTextureManager.java
+END
+TLevelConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/TLevelConfig.java
+END
+TGameMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/TGameMenu.java
+END
+TLevelFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/TLevelFactory.java
+END
+TSegment.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/TSegment.java
+END
+TSoundPlayer.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/TSoundPlayer.java
+END
+TSurfer.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/TSurfer.java
+END
+TLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/TLevel.java
+END
+TTextGL.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/mbarde/HomeCode/!svn/ver/383/AndroidAlienSurf/src/org/fingertipmagic/AlienSurf/TTextGL.java
+END
