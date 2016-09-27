@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AlienSurf</string>
+    <string name="smack_them">Smack them!</string>
+    <string name="touch_to_start">Touch to start</string>
+    <string name="restart">Never give up!</string>
+    <string name="time">Time</string>
+    <string name="killed">Killed</string>
+    <string name="pause">Pause</string>
+    <string name="new_record">New record!</string>
+    <string name="level_unlocked">New level unlocked!</string>
+    <string name="besttime">Best time</string>
+    <string name="totalkillcount">Total killcount</string>
+    <string name="help_titel">Help</string>
+    <string name="help_story">		Story:
+						Some aliens invaded your:
+						world. You put on an:
+	    				astronaut suite, grab your:
+	    				surfboard and kill them by:
+	    				surfing over their heads.</string>
+    <string name="help_controls">		Controls:
+						Tilt your device to:
+						control the surfer.:
+						Touch the screen to jump.:
+						Touch the screen to:
+						use items.</string>
+    <string name="help_info">		Info:
+						Your board glides faster:
+						on alien blood.:
+						Jump over blood free gaps:
+						to avoid a slow down.:
+						Avoid obstacles or jump on:
+						them to prevent a slow down.</string>
+	<string name="level_locked_01">Kill</string>
+	<string name="level_locked_02">aliens to unlock this level!</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_start_logo">StartLogoActivity</string>
+    <string name="version">0.4</string>
+
+</resources>
