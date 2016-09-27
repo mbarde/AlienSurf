@@ -14,40 +14,40 @@ Technology: Java + OpenGL ES 2.0
 
 Changelog:
 
-> v.0.0.9
-	- Draw lecture room and aliens
-	- Control surfer using the orientation sensor
-	- Touch the screen to jump
-> v.0.1.0 
-	- Blood
-	- Alien kill enabled
-	- Improved controls
-> v.0.1.5 (funky edit)
-	- Scores
-	- Text
-	- Better performance
-	- Better colours
-> v.0.1.6 (even funkier edit)
-	- Power ups
-> v.0.3 (almost a game edit)
-	- Different levels
-	- Main menu
-	- Different alien types
-	- Obstacles
-	- Highscore saving
-> v.0.3.2
-	- Smoother menu animations
-	- Help screen
-	- Multiple language support (currently english and german)
-	- Different obstacle handling (you can now smash them by jumping on them)
-	- Sounds
-> v.0.3.5
-	- Ingame Menu
-> v.0.3.6
-	- Some new textures
-> v.0.3.9
-	- More stable
-	- Improved loading time
-> v.0.4 
-	- Really really improved loading time
-	- Level unlock possible
+> v.0.0.9<br>
+	- Draw lecture room and aliens<br>
+	- Control surfer using the orientation sensor<br>
+	- Touch the screen to jump<br>
+> v.0.1.0<br>
+	- Blood<br>
+	- Alien kill enabled<br>
+	- Improved controls<br>
+> v.0.1.5 (funky edit)<br>
+	- Scores<br>
+	- Text<br>
+	- Better performance<br>
+	- Better colours<br>
+> v.0.1.6 (even funkier edit)<br>
+	- Power ups<br>
+> v.0.3 (almost a game edit)<br>
+	- Different levels<br>
+	- Main menu<br>
+	- Different alien types<br>
+	- Obstacles<br>
+	- Highscore saving<br>
+> v.0.3.2<br>
+	- Smoother menu animations<br>
+	- Help screen<br>
+	- Multiple language support (currently english and german)<br>
+	- Different obstacle handling (you can now smash them by jumping on them)<br>
+	- Sounds<br>
+> v.0.3.5<br>
+	- Ingame Menu<br>
+> v.0.3.6<br>
+	- Some new textures<br>
+> v.0.3.9<br>
+	- More stable<br>
+	- Improved loading time<br>
+> v.0.4 <br>
+	- Really really improved loading time<br>
+	- Level unlock possible<br>
