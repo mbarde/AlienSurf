@@ -16,8 +16,6 @@ Tilt your device to control the surfer. Touch the screen to jump.
 
 Download built APK for Android (vers. 0.4) [here](https://mbarde.de/files/AlienSurf.apk).
 
-https://github.com/mbarde/AlienSurf.git
-
 ### Screenshots
 
 ![Screenshot](https://github.com/mbarde/AlienSurf/blob/master/docs/as-screen.jpg?raw=true)
